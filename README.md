@@ -1,4 +1,3 @@
-```md
 <h1 align="center">Hi 👋, I'm Shreyansh Chaware</h1>
 <h3 align="center">MCA Student at IIIT Vadodara | Data Analytics & Generative AI Enthusiast</h3>
 
@@ -107,4 +106,4 @@
 
 > “Consistency beats intensity when discipline becomes lifestyle.”
 
-```
+
