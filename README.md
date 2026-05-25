@@ -89,18 +89,12 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sh3ey&show_icons=true&theme=tokyonight" alt="stats" />
+<img src="https://streak-stats.demolab.com?user=sh3ey&theme=tokyonight" alt="streak" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sh3ey&theme=tokyonight" alt="streak" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh3ey&theme=tokyonight&hide_border=true&layout=compact" />
 </p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sh3ey&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="languages" />
-</p>
-
----
 
 ## ✨ Quote I Believe In
 
